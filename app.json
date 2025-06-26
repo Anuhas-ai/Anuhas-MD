@@ -1,5 +1,5 @@
 {
-  "name": "VISPER-MD",
+  "name": "ANUHAS-MD",
   "description": "VISPER MD Best Whatsapp User Bot",
   "logo": "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg",
   "keywords": ["bot"],
@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MOVIE-VISPER=e0hEABjZ#M-PpKU5MJ6qHxr6b_Sl3-yHyImEW1J6adb-asveivJM",
       "required": true
     }
 },
@@ -17,5 +17,5 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "heroku-24"
+  "stack": "github"
 }

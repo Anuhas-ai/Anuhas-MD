@@ -1,5 +1,5 @@
 {
-  "name": "VISPER MD",
+  "name": "ANUHAS MD",
   "version": "2.0.0",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Visper",

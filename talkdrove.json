@@ -1,5 +1,5 @@
 {
-    "bot-name": "VISPER-MD",
+    "bot-name": "ANUHAS-MD",
     "description": "A Whatsapp user bot",
     "logo": "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg",
     "keywords": ["bot"],
@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here",
+        "description": "MOVIE-VISPER=e0hEABjZ#M-PpKU5MJ6qHxr6b_Sl3-yHyImEW1J6adb-asveivJM",
         "value":"",
         "required": true
         
